@@ -1,16 +1,52 @@
-## Hi there 👋
+# Nicola Gullo
 
-<!--
-**ngarts/ngarts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer | Backend & Data Engineering**
 
-Here are some ideas to get you started:
+Software engineer with experience in backend development, data engineering
+and distributed data processing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My core technology stack includes **Java, Spring Boot, Python, PySpark and SQL**,
+with experience across data platforms, REST APIs and cloud-based architectures.
+
+## Selected projects
+
+### [Music Catalog](https://github.com/ngarts/music-catalog)
+
+Full-stack application designed as a practical environment for exploring
+modern application architecture and deployment.
+
+**Stack:** TypeScript · Fastify · React · MongoDB · Docker · Kubernetes · Kustomize
+
+### [PySpark & PyTorch Predictive Maintenance](https://github.com/ngarts/pyspark-pytorch-predictive-maintenance)
+
+Data engineering and machine learning project combining distributed
+processing with neural-network-based predictive maintenance.
+
+**Stack:** Python · PySpark · PyTorch
+
+### [Music Popularity Prediction](https://github.com/ngarts/music-popularity-prediction)
+
+Machine learning project exploring music popularity prediction from
+audio and metadata features.
+
+**Stack:** Python · Machine Learning
+
+## Research
+
+Co-author of:
+
+**[Development of Indoor Smart Environments Leveraging the Internet of Things
+and Artificial Intelligence: A Case Study](https://doi.org/10.1007/978-3-031-15160-6_12)**
+
+Published by Springer in *IoT Edge Solutions for Cognitive Buildings*.
+
+**DOI:** [10.1007/978-3-031-15160-6_12](https://doi.org/10.1007/978-3-031-15160-6_12)
+
+## Core technologies
+
+Java · Spring Boot · Python · PySpark · Databricks · SQL  
+REST APIs · PostgreSQL · Docker · Kubernetes · Azure
+
+---
+
+📍 Italy · Open to remote opportunities
