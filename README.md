@@ -44,9 +44,8 @@ Published by Springer in *IoT Edge Solutions for Cognitive Buildings*.
 
 ## Core technologies
 
-Java · Spring Boot · Python · PySpark · Databricks · SQL  
-REST APIs · PostgreSQL · Docker · Kubernetes · Azure
-
+- **Backend & Data:** Java · Spring Boot · Python · PySpark · Databricks · SQL
+- **APIs, Cloud & Infrastructure:** REST APIs · PostgreSQL · Docker · Kubernetes · Azure
 ---
 
 📍 Italy · Open to remote opportunities
